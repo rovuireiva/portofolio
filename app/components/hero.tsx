@@ -22,7 +22,7 @@ export default function Hero() {
     return(
         <section id="hero" className="hero section light-background">
           <Image
-            src="./public/assets/img/hero-bg.JPG"
+            src="./assets/img/hero-bg.JPG"
             alt="Hero Background"
             fill
             priority
