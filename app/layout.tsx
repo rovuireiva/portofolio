@@ -35,28 +35,28 @@ export default function RootLayout({
         />
 
         {/* Vendor CSS */}
-        <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
-        <link href="/assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link href="/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
-        <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+        <link href="./assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="./assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+        <link href="./assets/vendor/aos/aos.css" rel="stylesheet" />
+        <link href="./assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+        <link href="./assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} index-page`}
       >
         {children}
         {/* Vendor JS */}
-        <Script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/php-email-form/validate.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/aos/aos.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/typed.js/typed.umd.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/purecounter/purecounter_vanilla.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/waypoints/noframework.waypoints.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/glightbox/js/glightbox.min.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js" strategy="afterInteractive" />
-        <Script src="/assets/vendor/swiper/swiper-bundle.min.js" strategy="afterInteractive" />
-        <Script src="/assets/js/main.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/bootstrap/js/bootstrap.bundle.min.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/php-email-form/validate.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/aos/aos.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/typed.js/typed.umd.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/purecounter/purecounter_vanilla.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/waypoints/noframework.waypoints.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/glightbox/js/glightbox.min.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/imagesloaded/imagesloaded.pkgd.min.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/isotope-layout/isotope.pkgd.min.js" strategy="afterInteractive" />
+        <Script src="./assets/vendor/swiper/swiper-bundle.min.js" strategy="afterInteractive" />
+        <Script src="./assets/js/main.js" strategy="afterInteractive" />
       </body>
     </html>
   );
