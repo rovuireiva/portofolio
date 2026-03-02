@@ -8,4 +8,4 @@
 :HL["/assets/vendor/aos/aos.css","style"]
 :HL["/assets/vendor/glightbox/css/glightbox.min.css","style"]
 :HL["/assets/vendor/swiper/swiper-bundle.min.css","style"]
-0:{"buildId":"ccM8Vr30VbiH_gon8x0ml","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"kinecZ_ELqk3Z34mRcyUU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
