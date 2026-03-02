@@ -37,8 +37,8 @@ export default function Hero() {
                 </p>
 
                 <div className="social-links">
-                  <a href="#"><i className="bi bi-twitter-x"></i></a>
-                  <a href="#"><i className="bi bi-facebook"></i></a>
+                  <a href="https://x.com/rovuireiva?s=11"><i className="bi bi-twitter-x"></i></a>
+                  <a href="https://facebook.com/vyuanimax"><i className="bi bi-facebook"></i></a>
                   <a href="https://instagram.com/rovuireiva93"><i className="bi bi-instagram"></i></a>
                 </div>
               </div>
