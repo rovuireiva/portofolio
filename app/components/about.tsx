@@ -16,7 +16,7 @@ export default function About() {
             <div className="row gy-4 justify-content-center">
               <div className="col-lg-4">
                 <Image
-                  src="/assets/img/profile-img.jpg"
+                  src="./assets/img/profile-img.jpg"
                   width={400}
                   height={400}
                   alt="Profile"
